@@ -17,7 +17,9 @@
 - jupyter
 
 You’ll be able to install a Python package by opening the Command Prompt(Windows) or Terminal(Linux), and then typing this command:
+
 `pip install package`
 
 To install a specific package version type:
+
 `pip install package==x.x.x`
