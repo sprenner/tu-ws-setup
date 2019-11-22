@@ -1,7 +1,9 @@
 # Setup Machine Learning Workshop
 
 ## Install Python
-[Python 3.6+ (pip should be included)](https://www.python.org/downloads/)
+Windows: [Python 3.7.2 (pip should be included)](https://www.python.org/ftp/python/3.7.2/python-3.7.2-amd64.exe)
+Linux: `sudo apt-get update`
+        `sudo apt-get install python3.7`
 
 ## Install Python Packages (via pip):
 - pandas 0.24.1
