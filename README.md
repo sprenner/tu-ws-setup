@@ -6,7 +6,7 @@ Windows: [Python 3.7.2 (pip should be included)](https://www.python.org/ftp/pyth
 Linux: `sudo apt-get update`
         `sudo apt-get install python3.7`
         
-In case you need to manually install pip download [get-pip.py](https://bootstrap.pypa.io/get-pip.py) and run run the script by entering `python get-pip.py` in your command line.
+In case you need to manually install pip download [get-pip.py](https://bootstrap.pypa.io/get-pip.py) and run the script by entering `python get-pip.py` in your command line.
 
 ## Install Python Packages (via pip):
 - pandas 0.24.1
