@@ -13,7 +13,7 @@ In case you need to manually install pip download [get-pip.py](https://bootstrap
 - nltk 3.4.3
 - numpy 1.17.3
 - scikit-learn 0.20.3
-- Unicode 1.1.1
+- Unidecode 1.1.1
 - lime 0.1.1.36
 - eli5 0.10.1
 - matplotlib 3.1.0
